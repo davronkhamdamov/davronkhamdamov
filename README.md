@@ -17,7 +17,7 @@
  </p>
 
 <p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davronkhamdamov&layout=pie&langs_count=10" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davronkhamdamov&layout=pie&langs_count=20" />
  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=davronkhamdamov&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 <br>

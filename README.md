@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Davron Xamdamov</h1>
+<h1 align="center">Hi <img src="./Hi.gif" width="30" />, I'm Davron Xamdamov</h1>
 <h3 align="center">Full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davronkhamdamov&label=Profile%20views&color=0e75b6&style=flat" alt="davronkhamdamov" /> </p>
